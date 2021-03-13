@@ -1,2 +1,2 @@
 # ADS02_CS
-Data Science @ Cambridge Sparke - Week 2
+Data Science Bootcamp @ Cambridge Sparke - Week 2
